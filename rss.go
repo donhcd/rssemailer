@@ -15,6 +15,7 @@ import (
 func main() {
 	feed := rss.New(5, true, chanHandler, itemHandler)
 	for {
+		refreshInterests()
 		if err := feed.Fetch("http://feeds.feedburner.com/TheFlightDeal", nil); err != nil {
 			fmt.Fprintf(os.Stderr, "[e] %s\n", err)
 			return
@@ -61,14 +62,14 @@ func getRecipientsForItem(item *rss.Item) []string {
 }
 
 func sendEmailForItem(item *rss.Item, email string) {
-	// println(email, item.Title)
+	println(email, item.Title)
 	// _ = exec.Command
 	// _ = bytes.NewReader
-		cmd := exec.Command("mail", "-s", "Flight deal: "+item.Title, email)
-		cmd.Stdin = bytes.NewReader([]byte(fmt.Sprintf("Link: %s\n\nDescription: %s\n", item.Comments, item.Description)))
-		if output, err := cmd.CombinedOutput(); err != nil {
-			fmt.Fprintf(os.Stderr, "[e] mail error: %s; output: %q\n", err, string(output))
-		}
+	cmd := exec.Command("mail", "-s", "Flight deal: "+item.Title, email)
+	cmd.Stdin = bytes.NewReader([]byte(fmt.Sprintf("Link: %s\n\nDescription: %s\n", item.Comments, item.Description)))
+	if output, err := cmd.CombinedOutput(); err != nil {
+		fmt.Fprintf(os.Stderr, "[e] mail error: %s; output: %q\n", err, string(output))
+	}
 }
 
 func itemHandler(feed *rss.Feed, ch *rss.Channel, newitems []*rss.Item) {
@@ -80,8 +81,8 @@ func itemHandler(feed *rss.Feed, ch *rss.Channel, newitems []*rss.Item) {
 	}
 }
 
-func init() {
-	if bytes, err := ioutil.ReadFile("config.json"); err != nil {
+func refreshInterests() {
+	if bytes, err := ioutil.ReadFile(os.Args[1]); err != nil {
 		panic(err)
 	} else if err := json.Unmarshal(bytes, &interests); err != nil {
 		panic(err)
