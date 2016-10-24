@@ -1,0 +1,3 @@
+#!/bin/sh
+
+nohup bash -c 'while true; do go run rss.go config.json > rsslogs.txt; done'
