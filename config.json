@@ -1,0 +1,21 @@
+[
+  {
+    "Email": "don.hcd@gmail.com",
+    "AndedInterests": [
+      ["sfo","san francisco","sjc","san jose","oak","oakland"]
+    ]
+  },
+  {
+    "Email": "ann.huang@gmail.com",
+    "AndedInterests": [
+      ["seattle","bozeman","bzn","sea"]
+    ]
+  },
+  {
+    "Email": "diana.huang.11@gmail.com",
+    "AndedInterests": [
+      ["philadelphia","phl"],
+      ["los angeles","lax"]
+    ]
+  }
+]

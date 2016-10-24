@@ -1,0 +1,206 @@
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+panic: open config.json: no such file or directory
+
+goroutine 1 [running]:
+panic(0x7a9e20, 0xc82000f260)
+	/usr/lib/go-1.6/src/runtime/panic.go:481 +0x3e6
+main.refreshInterests()
+	/home/don/go/src/rssemailer/rss.go:86 +0xa8
+main.main()
+	/home/don/go/src/rssemailer/rss.go:18 +0x58
+exit status 2
+don.hcd@gmail.com jetBlue – $360: San Francisco – Barbados. Roundtrip, including all Taxes
+[e] mail error: exec: "mail": executable file not found in $PATH; output: ""
+ann.huang@gmail.com Air Canada – $437: Seattle – Shanghai / Beijing, China. Roundtrip, including all Taxes
+[e] mail error: exec: "mail": executable file not found in $PATH; output: ""
+don.hcd@gmail.com The Shorthaul – United / jetBlue – $76: San Francisco – Las Vegas (and vice versa). Roundtrip, including all Taxes
+[e] mail error: exec: "mail": executable file not found in $PATH; output: ""
+don.hcd@gmail.com Delta – $258: San Jose / Oakland / Sacramento – San Salvador, El Salvador. Roundtrip, including all Taxes
+[e] mail error: exec: "mail": executable file not found in $PATH; output: ""
+don.hcd@gmail.com jetBlue – $360: San Francisco – Barbados. Roundtrip, including all Taxes
+[e] mail error: exec: "mail": executable file not found in $PATH; output: ""
+ann.huang@gmail.com Air Canada – $437: Seattle – Shanghai / Beijing, China. Roundtrip, including all Taxes
+[e] mail error: exec: "mail": executable file not found in $PATH; output: ""
+don.hcd@gmail.com The Shorthaul – United / jetBlue – $76: San Francisco – Las Vegas (and vice versa). Roundtrip, including all Taxes
+[e] mail error: exec: "mail": executable file not found in $PATH; output: ""
+don.hcd@gmail.com Delta – $258: San Jose / Oakland / Sacramento – San Salvador, El Salvador. Roundtrip, including all Taxes
+[e] mail error: exec: "mail": executable file not found in $PATH; output: ""
